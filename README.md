@@ -40,7 +40,9 @@ tic-tac-toe/
 
 ## 📸 Preview
 
-Add a screenshot of your project here.
+<img src="https://github.com/user-attachments/assets/0d6dd51d-853f-405c-8059-366e6e6e105c" alt="Tic Tac Toe Screenshot" width="800">
+
+
 
 ## 🧠 What I Learned
 
